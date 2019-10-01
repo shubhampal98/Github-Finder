@@ -1,7 +1,7 @@
 body {
 background: #085078;
-background: -webkit-linear-gradient(to right, #85D8CE, #085078);
-background: linear-gradient(to right, #85D8CE, #085078);
+background: -webkit-linear-gradient(to right, #085078,#85D8CE);
+background: linear-gradient(to right,#085078, #85D8CE);
 }
 
 .search {
